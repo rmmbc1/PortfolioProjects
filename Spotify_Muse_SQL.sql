@@ -1,5 +1,5 @@
 --SQL Data Exploration
---The following explorers the breakdown of the Spotify dataset for band Muse. 
+--The following explores the breakdown of the Spotify dataset for the band Muse. 
 
 
 ---------------Album Breakdown--------------
