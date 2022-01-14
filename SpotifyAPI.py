@@ -6,8 +6,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import pandas as pd
 import time
 
-client_id = "a8657243e51c47b1b3ea9f378cdca790" 
-client_secret = "8e942c4ce79d47b3af964d34e7b1c192"
+client_id = "xxx" 
+client_secret = "xxx"
 
 client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
