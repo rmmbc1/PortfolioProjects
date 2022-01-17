@@ -1,4 +1,5 @@
 --SQL Data Exploration
+--After extracting the data using python, we import the data into ms sql server for additional analysis. 
 --The following explores the breakdown of the Spotify dataset for the band Muse. 
 
 
